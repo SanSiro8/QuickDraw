@@ -7,11 +7,13 @@ For a nicer view, look at the PDF of the Reflexion
 Reflexion
 
 Abstrakt
+
 Dieses Projekt handelt von einem komplexen Computerprogramm, welches, durch vieles lernen, ein Muster in Zeichnungen erkennen kann. Durch diese Muster kann das Programm, nebst den fünfzig Millionen Zeichnungen, auf welche es trainiert wurde, auch ganz neue Zeichnungen erkennen und dann eine Aussage macht, was auf diesem Bild zu sehen ist. Dieses Computerprogramm ist in meinem Fall ein CNN (Convolutional Neural Network) welches mit Pytorch geschrieben wurde.
 
 Prozess
 
 Ideen finden
+
 Dieses Projekt wurde im Oktober 2022 gestartet und dauerte bis zum Ende Januar 2023. Während dieser Zeit habe ich vieles gelernt und mein Projekt wurde deutlich grösser als zuerst gedacht. Ich wollte zu Beginn einfach einen «einfaches» Neuronales Netz schreiben, welches eine gewisse Anzahl an Kunstwerken zuordnen kann. Ich brauchte für das Finden eines geeigneten Datenset ungefähr zehn Stunden. Der gefundene Datensatz hatte einen grossen Einfluss auf den weiteren Verlauf dieses Projektes. Am Ende meiner Suchzeit bin ich auf das Datenset von QuickDraw gestossen (1, 2). Dies ist eines der grössten Datensets für schnelle Zeichnungen, auch Doodles genannt. Es stammt von einem online Multiplayer-Spiel. Es hat einen Umfang von ungefähr fünfzig Millionen Zeichnungen, welche immer von den SpielerInnen überarbeitet und korrigiert werden.
 
 Tutorial zu QuickDraw
