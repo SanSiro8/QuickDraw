@@ -3,6 +3,8 @@ Here is a recreation of a AI, that was done using the data from Google QuickDraw
 
 For a nicer view, look at the PDF of the Reflexion
 
+The data, that this Model was trained on can be found here: https://quickdraw.withgoogle.com/data
+
 
 Reflexion
 
